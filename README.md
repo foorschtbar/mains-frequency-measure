@@ -16,8 +16,3 @@ Netzfrequenz-Messung Basisplatine für den RaspberryPi und USB-TTL-Konverter
 Die hier vorgestelle Platine ermöglicht die genaue Netzfrequenzmessung des Stromnetzes (50 Hz und 60Hz). Sie ist universell aufgebaut und kann sowohl mit einem RaspberryPi 3/4 als auch mit einer USB-TTL-Konverter betrieben werden.
 Die Ausgabe der Messdaten erfolgt über die serielle Schnittstelle des verwendetet ATMega328. Die µCSoftware ist programmiert mit einer Arduino-IDE. Das Programm lässte sich problemlos erweitern oder anpassen. 
 Der Nachbau ist sehr einfach.
-
-
-Der M-Bus ist ein Feldbus für die Verbrauchsdatenerfassung. Die Übertragung erfolgt seriell auf einer verpolungssicheren Zweidrahtleitung von den angeschlossenen Messgeräten (Slaves) zu einem Master. Der Master fragt über den Bus die Zähler ab. Die Stromversorgung der Slaves kann über den Bus erfolgen. Der Master kann ein eigenständiges Gerät sein, aber auch ein PC oder RaspberryPi mit einem **Pegelwandler**. 
-Dieses Projekt stellt einen einfachen Low-Budget-M-Bus-Pegelwandler zur Verfügung, um Verbrauchsdaten z.B. in einer Hausautomatisierung zu erfassen.
-
