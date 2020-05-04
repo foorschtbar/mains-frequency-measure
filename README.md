@@ -13,6 +13,6 @@ The reproduction is very simple.
 ## DE
 Netzfrequenz-Messung Basisplatine für den RaspberryPi und USB-TTL-Konverter
 
-Die hier vorgestelle Platine ermöglicht die genaue Netzfrequenzmessung des Stromnetzes (50 Hz und 60Hz). Sie ist universell aufgebaut und kann sowohl mit einem RaspberryPi 3/4 als auch mit einer USB-TTL-Konverter betrieben werden.
+Die hier vorgestelle Platine ermöglicht die genaue Netzfrequenzmessung des Stromnetzes (50 Hz und 60Hz). Sie ist universell aufgebaut und kann sowohl mit einem RaspberryPi 3/4 als auch mit einem USB-TTL-Konverter betrieben werden.
 Die Ausgabe der Messdaten erfolgt über die serielle Schnittstelle des verwendetet ATMega328. Die µCSoftware ist programmiert mit einer Arduino-IDE. Das Programm lässte sich problemlos erweitern oder anpassen. 
 Der Nachbau ist sehr einfach.
