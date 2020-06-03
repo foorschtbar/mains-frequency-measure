@@ -1,8 +1,10 @@
 # mains frequency measurement unit
-for the RaspebrryPi or USB(TTL)_converter for 50 Hz or 60 Hz mains frequency.
+for the RaspebrryPi or USB(TTL)Converter.
+
 
 Simple electronics as a basis for measuring the mains frequency of power networks.
 Use in industry, science, education or hobby.The M-Bus-TTL (USB/RS232) Converter
+
 
 ![mains frequency measure for RPi and USB](https://pc-projekte.lima-city.de/media/images/nfa_rpi_3b.jpg "mfm base board")
 
