@@ -3,7 +3,7 @@ for the RaspebrryPi or USB(TTL)Converter.
 
 
 Simple electronics as a basis for measuring the mains frequency of power networks.
-Use in industry, science, education or hobby.The M-Bus-TTL (USB/RS232) Converter
+Use in industry, science, education or hobby.
 
 
 ![mains frequency measure for RPi and USB](https://pc-projekte.lima-city.de/media/images/nfa_rpi_3b.jpg "mfm base board")
