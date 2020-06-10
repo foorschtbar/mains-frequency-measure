@@ -6,7 +6,8 @@ Simple electronics as a basis for measuring the mains frequency of power network
 Use in industry, science, education or hobby.
 
 
-![mains frequency measure for RPi and USB](https://pc-projekte.lima-city.de/media/images/nfa_rpi_3b.jpg "mfm base board")
+![mains frequency measure for RPi and USB](https://pc-projekte.lima-city.de/media/images/mfm_v1_3d-large.jpg "mfm base board")
+
 
 ## EN
 Mains frequency measurement Base board for the RaspberryPi and USB-TTL converter
