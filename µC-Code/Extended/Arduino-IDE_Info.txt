@@ -1,0 +1,16 @@
+Information:
+
+the µcontroller software is written in the Arduino IDE and can be easily adapted. 
+But for the transmission of the hex file the integrated ISP port must be used, 
+because serial communication via the Arduino IDE was abandoned in favour of 
+hardware simplification (3.3V µC operating voltage). A detailed description of 
+the program transfer can be found in the documentation.
+
+Information:
+
+die µcontroller-Software ist geschrieben in der Arduino-IDE und kann problemlos 
+angepasst werden. Zur Übertragung des Hex-Files muss aber der integrierte ISP-
+Port verwendet werden, da auf serielle Kommunikation über die Arduino-IDE 
+zugunsten der Hardware-vereinfachung (3,3V µC Betriebsspannung) verzichtet wurde. 
+Eine detaillierte Beschreibung der Programm-Übertragung finden Sie in der 
+Dokumentation.
